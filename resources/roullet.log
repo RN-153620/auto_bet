@@ -1,0 +1,171 @@
+2022-02-20 22:57:32,992 [INFO] root: Roullet Player is started!!!
+2022-02-20 22:58:20,218 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:58:20,284 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:58:20,318 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-20 22:58:20,319 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-20 22:58:20,319 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-20 22:58:20,320 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:58:20,630 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:58:20,827 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:58:20,930 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:58:20,946 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_top2to1 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-20 22:58:34,425 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:58:34,489 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:58:34,529 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-20 22:58:34,531 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-20 22:58:34,531 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-20 22:58:34,532 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:58:34,815 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:58:35,001 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:58:35,110 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:58:35,130 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_3rd12 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-20 22:58:49,555 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:58:49,616 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:58:49,659 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-20 22:58:49,659 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-20 22:58:49,660 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-20 22:58:49,661 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:58:49,909 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:58:50,096 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:58:50,222 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:58:50,241 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_bottom2to1 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-20 22:59:02,460 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:59:02,539 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:59:02,575 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-20 22:59:02,576 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-20 22:59:02,577 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-20 22:59:02,578 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:59:02,804 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:59:03,020 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:59:03,133 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:59:03,153 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_top2to1 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-20 22:59:16,745 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:59:16,788 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:59:16,825 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-20 22:59:16,827 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-20 22:59:16,829 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-20 22:59:16,832 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:59:17,041 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:59:17,279 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:59:17,407 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:59:17,422 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_bottom2to1 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-20 22:59:30,010 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:59:30,060 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:59:30,101 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-20 22:59:30,102 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-20 22:59:30,103 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-20 22:59:30,103 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:59:30,331 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:59:30,624 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:59:30,819 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:59:30,835 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_2nd12 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-20 22:59:42,607 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:59:42,662 [INFO] betman.models.entity.player: getting current credit...
+2022-02-20 22:59:42,699 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-20 22:59:42,700 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-20 22:59:42,702 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-20 22:59:42,703 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:59:42,934 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:59:43,120 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-20 22:59:43,236 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-20 22:59:43,254 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_bottom2to1 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-22 23:01:41,207 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:06:31,776 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:11:13,154 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:13:30,682 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:13:57,528 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:15:19,421 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:16:01,994 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:19:38,065 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:21:34,701 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:24:53,784 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:26:04,394 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:28:01,154 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:28:35,991 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:29:23,889 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:32:50,700 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:46:35,013 [INFO] root: Roullet Player is started!!!
+2022-02-22 23:51:29,793 [INFO] root: Roullet Player is started!!!
+2022-02-23 01:12:56,269 [INFO] root: Roullet Player is started!!!
+2022-02-23 01:13:29,836 [INFO] root: Roullet Player is started!!!
+2022-02-23 01:32:32,408 [INFO] root: Roullet Player is started!!!
+2022-02-23 08:12:44,262 [INFO] root: Roullet Player is started!!!
+2022-02-23 08:13:46,219 [INFO] root: Roullet Player is started!!!
+2022-02-23 08:17:22,120 [INFO] root: Roullet Player is started!!!
+2022-02-23 08:18:01,908 [INFO] root: Roullet Player is started!!!
+2022-02-23 08:18:46,643 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:18:46,715 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:18:46,748 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-23 08:18:46,748 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-23 08:18:46,749 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-23 08:18:46,750 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:18:47,044 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:18:47,265 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:18:47,376 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:18:47,390 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_1st12 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-23 08:19:00,592 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:00,657 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:00,689 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-23 08:19:00,690 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-23 08:19:00,691 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-23 08:19:00,691 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:00,941 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:01,181 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:01,298 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:01,319 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_3rd12 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-23 08:19:16,993 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:17,041 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:17,080 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-23 08:19:17,081 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-23 08:19:17,081 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-23 08:19:17,082 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:17,323 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:17,558 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:17,667 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:17,683 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_top2to1 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-23 08:19:30,750 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:30,803 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:30,838 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-23 08:19:30,838 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-23 08:19:30,839 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-23 08:19:30,839 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:31,056 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:31,267 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:31,388 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:31,405 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_middle2to1 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-23 08:19:43,698 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:43,743 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:43,785 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-23 08:19:43,786 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-23 08:19:43,786 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-23 08:19:43,787 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:43,999 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:44,194 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:44,319 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:44,344 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_2nd12 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-23 08:19:57,454 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:57,524 [INFO] betman.models.entity.player: getting current credit...
+2022-02-23 08:19:57,555 [INFO] betman.models.entity.player: credit : $0.08
+2022-02-23 08:19:57,555 [INFO] betman.models.entity.player: sequence : ['0.1', '0.2', '0.3']
+2022-02-23 08:19:57,556 [INFO] betman.models.entity.player: betting_amount : $0.4
+2022-02-23 08:19:57,556 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:57,768 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:57,968 [INFO] betman.models.entity.player: choosing a chip...$0.2
+2022-02-23 08:19:58,093 [INFO] betman.models.entity.player: click a betting grid.
+2022-02-23 08:19:58,117 [ERRO] betman.models.entity.player: no such element: Unable to locate element: {"method":"css selector","selector":"#bet_1st12 > div > svg > g > circle.text-background--9cda6"}
+  (Session info: chrome=98.0.4758.102)
+2022-02-23 08:27:52,050 [INFO] root: Roullet Player is started!!!
+2022-02-23 09:20:01,246 [INFO] root: Roullet Player is started!!!
+2022-02-23 09:20:41,065 [INFO] root: Roullet Player is started!!!
